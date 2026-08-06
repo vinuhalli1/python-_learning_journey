@@ -1,0 +1,16 @@
+marks = []
+a = int(input("enter 1st number:"))
+marks.append(a)
+b = int(input("enter 2nd number:"))
+marks.append(b)
+c = int(input("enter 3rd number:"))
+marks.append(c)
+d = int(input("enter 4th number:"))
+marks.append(d)
+print(marks)
+print(max(marks))
+print(min(marks))
+sum = sum(marks)
+print(sum)
+print ("avg=", sum/len(marks))
+

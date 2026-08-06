@@ -1,0 +1,7 @@
+marks = (18,26,63,26)
+sum = sum(marks)
+minimum = min(marks)
+maximum = max(marks)
+print(minimum)
+print(maximum)
+print(len(marks))
