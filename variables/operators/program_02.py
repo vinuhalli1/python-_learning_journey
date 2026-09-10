@@ -1,0 +1,5 @@
+num = int(input("enter any number:"))
+num2  = int (input("enterb number:"))
+num3 = int (input("enetr num:"))
+avg = ((num+num2+num3)/3)
+print(avg)
