@@ -1,0 +1,8 @@
+name = input("enter your name:")
+college_name = input("enter your college name:")
+branch = input("enter your branch")
+city = input("enter your city")
+print("student name :",name)
+print("college name:",college_name)
+print("branch is ",branch)
+print("city ",city)

@@ -1,0 +1,12 @@
+students = []
+name1 = input("enter your name:")
+students.append(name1)
+name2 = input("enter 2nd student name:")
+students.append(name2)
+name3 = input("enter 3rd student name:")
+students.append(name3)
+name4 = input("enter 4th student name:")
+students.append(name4)
+name5 = input("enter 5 th students name:")
+students.append(name5)
+print(students)
