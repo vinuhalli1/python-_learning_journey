@@ -1,0 +1,5 @@
+student = ("vina", 20, "aids", "third")
+print("student name:",student[0])
+print("student age:",student[1])
+print("student branch:",student[2])
+print("student year:",student[3])
